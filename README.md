@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](inbox.nagendra@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm half finshed
--->
