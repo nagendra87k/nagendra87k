@@ -1,5 +1,4 @@
-![alt text](https://github.com/nagendra87k/nagendra87k/blob/main/banner.jpg?raw=true)
-### Hi there, This Nagendra Kumar 👋
+![alt text](https://github.com/nagendra87k/nagendra87k/blob/main/Banner.png?raw=true)
 
 
 Here are some ideas to get you started:
