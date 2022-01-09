@@ -1,4 +1,4 @@
-![alt text](https://github.com/nagendra87k/nagendra87k/blob/main/Banner.png?raw=true&width=1900)
+![alt text](https://github.com/nagendra87k/nagendra87k/blob/main/intro-banner.png.png?raw=true&width=1900)
 
 
 
