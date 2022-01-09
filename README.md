@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 
 
+| <a href="https://github.com/nagendra87k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nagendra87k&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nagendra's github stats" /></a> | <a href="https://github.com/nagendra87k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagendra87k&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nagendra87k&show_icons=true&theme=gotham" alt="nagendra87k" />
