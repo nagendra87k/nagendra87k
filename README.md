@@ -2,6 +2,10 @@
 
 
 
+
+
+## How do you connect with me?:
+
 [![Github Badge](https://img.shields.io/badge/-Nagendra-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nagendra87k/)](https://github.com/nagendra87k/)
 [![Linkedin Badge](https://img.shields.io/badge/-Nagendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nagendra87k/)](https://www.linkedin.com/in/nagendra87k/)
 [![Twitter Badge](https://img.shields.io/badge/-Nagendra-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/nagendra7k)](https://twitter.com/nagendra7k)
@@ -9,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-inbox.nagendra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inbox.nagendra@gmail.com@gmail.com)](mailto:inbox.nagendra@gmail.com)
 
 
-## ⚡ Technologies
+## ⚡ Technologies Stacks:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -35,6 +39,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
+
+## Github statistics:
 
 | <a href="https://github.com/nagendra87k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nagendra87k&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nagendra's github stats" /></a> | <a href="https://github.com/nagendra87k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagendra87k&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
